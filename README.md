@@ -1,1 +1,1 @@
-# JavaScript--Cubos-Academy-Exercises
+# JavaScript---Cubos-Academy-Exercises
